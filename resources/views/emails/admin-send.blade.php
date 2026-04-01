@@ -12,7 +12,7 @@
 <div style="background: #1a73e8; padding: 20px; text-align: center;">
    <img 
   src="{{ asset('logo.png') }}"
-  alt="imf portal Official Logo"
+  alt="i.m.f portal Official Logo"
   width="160"
   height="auto"
   style="display:block;margin:auto;"
@@ -31,7 +31,7 @@
 
             <!-- Footer -->
             <div style="background: #f8f8f8; padding: 15px; text-align: center; font-size: 12px; color: #777777;">
-                &copy; {{ date('Y') }} imf portal. All rights reserved.
+                &copy; {{ date('Y') }} i.m.f portal. All rights reserved.
             </div>
 
         </div>
