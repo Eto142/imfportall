@@ -11,7 +11,7 @@
             <!-- Header with Logo Only -->
 <div style="background: #1a73e8; padding: 20px; text-align: center;">
    <img 
-  src="logo1.png"
+  src="{{ asset('logo.png') }}"
   alt="imf portal Official Logo"
   width="160"
   height="auto"
